@@ -1,5 +1,5 @@
 
-# Digital Signal Processing -- MATLAB Experiments
+# ECA0905-Digital Signal Processing -- MATLAB Experiments
 
 This repository contains MATLAB implementations of Digital Signal
 Processing (DSP) experiments. The programs cover IIR and FIR digital
@@ -133,4 +133,4 @@ B.E. Electronics and Communication Engineering (ECE)
 
 ## Subject
 
-**Digital Signal Processing (DSP) Laboratory**
+**ECA0905-Digital Signal Processing (DSP) **
