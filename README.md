@@ -58,7 +58,6 @@ This repository contains MATLAB implementations of Digital Signal Processing (DS
 
 ### Experiment 22: Acquisition and Digital Signal Processing of ECG and EMG Signals Using Biomedical Signal Acquisition Systems
 - Acquire or load biomedical signals, including electrocardiogram (ECG) and electromyogram (EMG) signals, for digital signal processing.
-- Analyze biomedical signal characteristics using time-domain and frequency-domain representations.
 
 ### Experiment 23: DSP-Based Image Enhancement, Compression and Edge Detection Using MATLAB
 - Apply DSP techniques for image enhancement, compression, and edge detection.
